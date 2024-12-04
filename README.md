@@ -16,14 +16,13 @@
 ### 📂 Advanced Media Sharing  
 - File and image uploads handled via **Cloudinary**.  
 - Customizable user profiles and settings.  
-- Chat room and channel creation/management.  
+- Group Chat room creation/management.  
 
 ## 🚀 Technology Stack  
 - **Frontend**: Next.js, React, Tailwind CSS, React Hook Form.  
 - **Backend**: Next.js API Routes, Prisma, Pusher.  
 - **Authentication**: NextAuth with Google and GitHub providers.  
-- **Media Management**: Cloudinary CDN.  
-- **Notifications**: React Toast.  
+- **Media Management**: Cloudinary CDN.   
 
 ## 🌐 Deployment  
 - Deployed on **Vercel** for fast and reliable hosting.  
